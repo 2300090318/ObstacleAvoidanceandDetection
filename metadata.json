@@ -1,0 +1,5 @@
+{
+  "name": "Aegis AI: Vision Intelligence",
+  "description": "Professional-grade ADAS (Advanced Driver Assistance System) featuring real-time object detection, distance estimation, and steering guidance.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
